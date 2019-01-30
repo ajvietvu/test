@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container w3-white">
+  <h1>"Give Way to Your Worst Impluse"</h1>
+  
+<div class="w3-container w3-teal">
+  <h1>68 Times - AJ Vietvu</h1>
+</div>
+
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/50914599_2424149790990223_1202898332473622528_n.jpg?_nc_cat=107&_nc_ht=scontent-lax3-1.xx&oh=dd37a33b10b048cf4721f226fd45d4b3&oe=5CF9B525" alt="Car" style="width:100%">
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/51001526_2424149800990222_8492081097964781568_n.jpg?_nc_cat=108&_nc_ht=scontent-lax3-1.xx&oh=72ac28892f5aab1bb3ce2636854bd207&oe=5CB3082B" alt="Car" style="width:100%">
+
+<div class="w3-container">
+  <p>For our assignments, we went with the strategy of "Giving Way to Your worst impulse."  For mine, I created a plain sketch.  I then started to add layers of color underneath the sketch; however, everytime I checked my phone, I added a new layer of color.  In total, I have 68 different layers of just coloring.</p>
+</div>
+
+<div class="w3-container w3-teal">
+  <p></p>
+</div>
+
+<div class="w3-container w3-teal">
+  <h1>Christian Calinawan</h1>
+</div>
+
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/51486671_2424149310990271_6411723150236581888_n.jpg?_nc_cat=104&_nc_ht=scontent-lax3-1.xx&oh=9186e8548213d181c9db027935c91331&oe=5CF785DC" alt="Car" style="width:100%">
+
+<div class="w3-container">
+  <p>Please add your documentation part of the assignment here.</p>
+</div>
+
+<div class="w3-container w3-teal">
+  <p></p>
+</div>
+
+<div class="w3-container w3-teal">
+  <h1>Natalie Bellido</h1>
+</div>
+
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/50667299_2424149367656932_4154398745888292864_o.jpg?_nc_cat=104&_nc_ht=scontent-lax3-1.xx&oh=0496346015827bcd96cb1a54e226d5d9&oe=5CFB8D30" alt="Car" style="width:100%">
+
+<div class="w3-container">
+  <p>Please add your documentation part of the assignment here.</p>
+</div>
+
+<div class="w3-container w3-teal">
+  <p></p>
+</div>
+
+<div class="w3-container w3-teal">
+  <h1>Self-Distraction On Diagram - Chi Nguyen</h1>
+</div>
+
+<div class="w3-container">
+<p><a href="https://www.youtube.com/watch?v=cK_dOzQXnUA#action=share">Self-Distraction On Diagram</a></p>
+<p>Please add your documentation part of the assignment here.</p>
+</div>
+
+<div class="w3-container w3-teal">
+  <p></p>
+</div>
+
+</body>
+</html> 
